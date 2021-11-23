@@ -9,7 +9,6 @@
     "build": "parcel build src/*.html --public-url /Hello-English/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-    
   },
   "repository": {
     "type": "git",
